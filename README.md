@@ -15,5 +15,6 @@ Feel free to invite me to collaborate on challenging projects!
 
 <img alt="Tonivolma's Stats" src="https://github-twindragon-stats.vercel.app/api?username=tonivolma&show_icons=true&hide_border=true&theme=dark"> <img/>
 <br>
+![tonivolma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonivolma&theme=dark&hide_border=true)
 ### ⭐️ Stars on GitHub
 ![Stars on GitHub](https://img.shields.io/github/stars/tonivolma?style=social)
