@@ -12,7 +12,6 @@ Feel free to invite me to collaborate on challenging projects!
 - 💬 Discord: tonivolma#0319
 
 <br>
-![tonivolma's Streak](https://streak-stats.demolab.com/?user=tonivolma&theme=dark&hide_border=true)
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ToniVolma&theme=dark&hide_border=true)](https://git.io/streak-stats)<br>
 ### ⭐️ Stars on GitHub
 ![Stars on GitHub](https://img.shields.io/github/stars/tonivolma?style=social)
