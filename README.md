@@ -11,10 +11,8 @@ Feel free to invite me to collaborate on challenging projects!
 - 📧 Email: toniromerania@gmail.com
 - 💬 Discord: tonivolma#0319
 
-https://github-readme-streak-stats.herokuapp.com?user=ToniVolma&theme=dark&hide_border=true
-
-<img alt="Tonivolma's Stats" src="https://github-readme-streak-stats.herokuapp.com?user=ToniVolma&theme=dark&show_icons=true&hide_border=true&theme=dark"> <img/>
 <br>
-![tonivolma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonivolma&theme=dark&hide_border=true)
+![tonivolma's Streak](https://streak-stats.demolab.com/?user=tonivolma&theme=dark&hide_border=true)
+<br>
 ### ⭐️ Stars on GitHub
 ![Stars on GitHub](https://img.shields.io/github/stars/tonivolma?style=social)
