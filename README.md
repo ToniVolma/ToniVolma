@@ -31,14 +31,6 @@ Feel free to invite me to collaborate on challenging projects!
   <img src="https://img.shields.io/badge/Amazon%20SES-232F3E?logo=amazon-aws&logoColor=FF9900&style=for-the-badge" alt="Amazon SES" height="28"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white&style=for-the-badge" alt="Cloudflare" height="28"/>
 </p>
-## ⚡ Cloudflare Stack
-<p>
-  <img src="https://img.shields.io/badge/Workers-F38020?logo=Cloudflare&logoColor=white&style=for-the-badge" alt="Cloudflare Workers" height="26"/>
-  <img src="https://img.shields.io/badge/WAF-F38020?logo=Cloudflare&logoColor=white&style=for-the-badge" alt="Cloudflare WAF" height="26"/>
-  <img src="https://img.shields.io/badge/Tunnel-F38020?logo=Cloudflare&logoColor=white&style=for-the-badge" alt="Cloudflare Tunnel" height="26"/>
-  <img src="https://img.shields.io/badge/Pages-F38020?logo=Cloudflare&logoColor=white&style=for-the-badge" alt="Cloudflare Pages" height="26"/>
-  <img src="https://img.shields.io/badge/Containers-F38020?logo=Cloudflare&logoColor=white&style=for-the-badge" alt="Cloudflare Containers" height="26"/>
-</p>
 
 <img alt="Tonivolma's Stats" src="https://github-twindragon-stats.vercel.app/api?username=tonivolma&show_icons=true&hide_border=true&theme=dark"> <img/>
 <br>
