@@ -32,7 +32,5 @@ Feel free to invite me to collaborate on challenging projects!
   <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white&style=for-the-badge" alt="Cloudflare" height="28"/>
 </p>
 
-<img alt="Tonivolma's Stats" src="https://github-twindragon-stats.vercel.app/api?username=tonivolma&show_icons=true&hide_border=true&theme=dark"> <img/>
-<br>
 ![tonivolma's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ToniVolma&theme=dark&show_icons=true&hide_border=true&theme=dark)
 
